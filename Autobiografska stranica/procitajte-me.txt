@@ -1,0 +1,1 @@
+Umjesto blurovavnja slike u pozadini samo sam stavila overlay i interaktivni dio stranice je instagram ikonica u footeru.
